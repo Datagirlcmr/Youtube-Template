@@ -11,9 +11,9 @@ body{
 #logo{
     height: 26px;
 }
-div{
+/* div{
     border: 1px solid;
-}
+} */
 input[type=search]{
     padding-top: 15px;
     margin-right: -4px;
@@ -29,19 +29,44 @@ button img {
 form{
     margin-top: 10px;
 }
-/*#recomend{
-    display: flex;
-    width: 30%;
-}
-#side{
-    display: flex;
-}
-#embeded{
-    display: flex;
-    width: 70%;
+
+.video{
+    margin-top: 15px;
 }
 
-[container]{
+#footer-icons {
+    padding-left: 150px;
+    padding-top: -50px;
+    display: inline-block;
+}
+
+#info{
+    border-bottom: 1px solid;
+    width: 55%;
+}
+
+.inline{
     display: flex;
     flex-direction: row;
-}*/
+    justify-content: space-between;
+}
+#datagirl{
+    font-size: 1.2em;
+    margin-top: -5px;
+}
+.girl{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}
+.Submit{
+    background-color: red;
+    margin: 20px;
+    padding: 12px;
+    justify-content: center;
+    border: none;
+    color: white;
+}
+div .footer{
+    width: 55%;
+}
