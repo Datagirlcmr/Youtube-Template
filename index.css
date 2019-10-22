@@ -1,0 +1,26 @@
+body{
+    margin: 10px;
+    padding: 10px;
+    
+}
+#nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+#logo{
+    height: 26px;
+}
+
+input[type=search]{
+    padding-top: 15px;
+    margin-right: -4px;
+}
+img{
+    margin: 10px;
+}
+
+button img {
+    margin:0px;
+    
+}
