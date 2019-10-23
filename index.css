@@ -54,7 +54,9 @@ form{
 #footer-icons {
     padding-left: 15%;
     padding-top: -5%;
-    display: inline-block;
+    display: inline;
+    float: right;
+    width: 100%;
 }
 
 #info{
@@ -65,24 +67,29 @@ form{
 .inline{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content:flex-start;
+    max-height: 200px;
 }
 #datagirl{
     font-size: 1.2em;
     margin-top: -5px;
 }
 .girl{
-    display: flex;
-    flex-direction: row;
-    margin-top: 25px;
+    margin-top: 2%;
+    
 }
 .Submit{
     background-color: red;
-    margin: 20px;
-    padding: 12px;
+    margin-bottom: 60px;
+    margin-left: 5px;
+    padding: 6px;
     justify-content: center;
     border: none;
     color: white;
+}
+.down h4{
+    margin-top:10px;
+    margin-left: 2px;
 }
 .pupra{
     width: 90%;
@@ -95,4 +102,7 @@ form{
     width: 100%;
     border: none;
     padding: 1%;
+}
+.footer{
+    max-height: 100px;
 }
