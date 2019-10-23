@@ -2,7 +2,10 @@ body{
     margin: 10px;
     padding: 10px;   
 }
-
+span{
+    background:white;
+    color: black;
+}
 #nav{
     display: flex;
     flex-direction: row;
@@ -70,14 +73,14 @@ form{
 }
 .Submit{
     background-color: red;
-    margin-bottom: 60px;
-    margin-left: 5px;
+    margin-left:-150px;
+    margin-top: 35px;
     padding: 6px;
     justify-content: center;
     border: none;
     color: white;
 }
-.down h4{
+.down{
     margin-top:10px;
     margin-left: 2px;
 }
@@ -100,16 +103,15 @@ form{
 
 #num-views{
     text-align: right;
-    width: 20px;    
+    border-bottom: 2px solid rgb(113, 113, 211);
 }
 
-#num-views h3{
-    border-bottom: 3px solid blue;
-}
 .buttons button{
    background: none;
    border: none;
-    
+}
+iframe{
+    border: 0px;
 }
 .likes{
 float: right;
