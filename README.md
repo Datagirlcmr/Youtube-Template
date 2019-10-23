@@ -1,6 +1,6 @@
 # Youtube-Template
 A clone of the Youtube Landing Page
-made by Tresor11 & Selma
+made by @Tresor11 & @Datagirlcmr
 using HTML5 and Css (not necessarily responsive)
 
 We Followed these Instructions
