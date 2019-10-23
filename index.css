@@ -1,8 +1,14 @@
 body{
     margin: 10px;
-    padding: 10px;
-    
+    padding: 10px;   
 }
+div{
+    border: 1px solid;
+}
+
+/*nav bar*/
+
+
 #nav{
     display: flex;
     flex-direction: row;
@@ -15,34 +21,47 @@ body{
     border: 1px solid;
 } */
 input[type=search]{
-    padding-top: 15px;
-    margin-right: -4px;
+    padding-top: 2.4%;
+    margin-right: -4%;
 }
-img{
-    margin: 10px;
+#left img{
+    margin:10px;
 }
-
 button img {
     margin:0px;
     
 }
 form{
-    margin-top: 10px;
+    margin-top: 1%;
 }
+
+/* main section*/
 
 .video{
-    margin-top: 15px;
+    margin-top: 1%;
 }
-
+.sub{
+    display: flex;
+    width: 90%;
+}
+.video{
+    width: 60%;
+}
+.embeded{
+    width: 100%;
+}
+.aside{
+    width:40%;
+}
 #footer-icons {
-    padding-left: 150px;
-    padding-top: -50px;
+    padding-left: 15%;
+    padding-top: -5%;
     display: inline-block;
 }
 
 #info{
     border-bottom: 1px solid;
-    width: 55%;
+    width: 100%;
 }
 
 .inline{
@@ -66,7 +85,4 @@ form{
     justify-content: center;
     border: none;
     color: white;
-}
-div .footer{
-    width: 55%;
 }
