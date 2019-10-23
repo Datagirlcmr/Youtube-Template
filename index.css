@@ -37,15 +37,13 @@ form{
 
 /* main section*/
 
-.video{
-    margin-top: 1%;
-}
 .sub{
     display: flex;
     width: 90%;
 }
 .video{
     width: 60%;
+    margin-top: 1%;
 }
 .embeded{
     width: 100%;
