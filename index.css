@@ -2,9 +2,9 @@ body{
     margin: 10px;
     padding: 10px;   
 }
-div{
+/* div{
     border: 1px solid;
-}
+} */
 
 /*nav bar*/
 
@@ -103,6 +103,25 @@ form{
     border: none;
     padding: 1%;
 }
+
 .footer{
     max-height: 100px;
+}
+
+#num-views{
+    text-align: right;
+    width: 20px;    
+}
+
+#num-views h3{
+    border-bottom: 3px solid blue;
+}
+.buttons button{
+   background: none;
+   border: none;
+    
+}
+.likes{
+float: right;
+    
 }
