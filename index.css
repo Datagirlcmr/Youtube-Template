@@ -3,7 +3,7 @@ body{
     padding: 10px;   
 }
 div{
-    border: 1px
+    border: 1px solid;
 }
 
 /*nav bar*/
@@ -90,4 +90,9 @@ form{
     justify-content: center;
     margin-left: 5%;
     margin-top: 10px;
+}
+#show-more{
+    width: 100%;
+    border: none;
+    padding: 1%;
 }
