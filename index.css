@@ -3,7 +3,7 @@ body{
     padding: 10px;   
 }
 div{
-    border: 1px solid;
+    border: 1px
 }
 
 /*nav bar*/
@@ -39,7 +39,7 @@ form{
 
 .sub{
     display: flex;
-    width: 90%;
+    width: 100%;
 }
 .video{
     width: 60%;
@@ -83,4 +83,11 @@ form{
     justify-content: center;
     border: none;
     color: white;
+}
+.pupra{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin-left: 5%;
+    margin-top: 10px;
 }
