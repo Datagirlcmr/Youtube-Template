@@ -6,6 +6,12 @@ span{
     background:white;
     color: black;
 }
+h1{
+    color: white;
+}
+#log{
+    height:50px;
+}
 #nav{
     display: flex;
     flex-direction: row;
@@ -112,8 +118,13 @@ form{
 }
 iframe{
     border: 0px;
+    width:650px;
+    height:450px; 
 }
 .likes{
 float: right;
     
+}
+#sel{
+    max-height: 35px;
 }
