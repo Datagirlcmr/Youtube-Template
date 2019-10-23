@@ -2,12 +2,6 @@ body{
     margin: 10px;
     padding: 10px;   
 }
-/* div{
-    border: 1px solid;
-} */
-
-/*nav bar*/
-
 
 #nav{
     display: flex;
@@ -17,9 +11,7 @@ body{
 #logo{
     height: 26px;
 }
-/* div{
-    border: 1px solid;
-} */
+
 input[type=search]{
     padding-top: 2.4%;
     margin-right: -4%;
@@ -34,8 +26,6 @@ button img {
 form{
     margin-top: 1%;
 }
-
-/* main section*/
 
 .sub{
     display: flex;
