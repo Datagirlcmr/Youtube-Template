@@ -133,3 +133,16 @@ float: right;
 #sel{
     max-height: 35px;
 }
+.aside div{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.aside div p{
+    margin: 10px;
+    font-weight: bold;
+}
+.aside div p span{
+    font-style: italic;
+    font-weight: 10;
+}
