@@ -3,6 +3,8 @@ A clone of the Youtube Landing Page
 made by @Tresor11 & @Datagirlcmr
 using HTML5 and Css (not necessarily responsive)
 
+ live demo:https://raw.githack.com/Datagirlcmr/Youtube-Template/features/index.html
+ 
 We Followed these Instructions
 
 Navigation bar
