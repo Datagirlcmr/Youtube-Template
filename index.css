@@ -1,0 +1,148 @@
+body{
+    margin: 10px;
+    padding: 10px;   
+}
+span{
+    background:white;
+    color: black;
+}
+h1{
+    color: white;
+}
+#log{
+    height:50px;
+}
+#nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-color:whitesmoke;
+    position: fixed;
+    width: 90%;
+    margin-top:-20px;
+    padding: 15px;
+}
+#logo{
+    height: 26px;
+}
+
+input[type=search]{
+    padding-top: 2.4%;
+    margin-right: -4%;
+}
+#left img{
+    margin:10px;
+}
+button img {
+    margin:0px;
+    
+}
+form{
+    margin-top: 1%;
+}
+
+.sub{
+    display: flex;
+    width: 100%;
+}
+.video{
+    width: 60%;
+    margin-top: 1%;
+}
+.embeded{
+    width: 100%;
+}
+.aside{
+    width:40%;
+}
+#footer-icons {
+    padding-left: 15%;
+    padding-top: -5%;
+    display: inline;
+    float: right;
+    width: 100%;
+}
+
+#info{
+    border-bottom: 1px solid;
+    width: 100%;
+}
+
+.inline{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    max-height: 200px;
+}
+#datagirl{
+    font-size: 1.2em;
+    margin-top: -5px;
+}
+.girl{
+    margin-top: 2%;
+    
+}
+.Submit{
+    background-color: red;
+    margin-left:-150px;
+    margin-top: 35px;
+    padding: 6px;
+    justify-content: center;
+    border: none;
+    color: white;
+}
+.down{
+    margin-top:10px;
+    margin-left: 2px;
+}
+.pupra{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin-left: 5%;
+    margin-top: 10px;
+}
+#show-more{
+    width: 100%;
+    border: none;
+    padding: 1%;
+}
+
+.footer{
+    max-height: 100px;
+}
+
+#num-views{
+    text-align: right;
+    border-bottom: 2px solid rgb(113, 113, 211);
+}
+
+.buttons button{
+   background: none;
+   border: none;
+}
+iframe{
+    border: 0px;
+    width:650px;
+    height:450px; 
+}
+.likes{
+float: right;
+    
+}
+#sel{
+    max-height: 35px;
+}
+.aside div{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.aside div p{
+    margin: 10px;
+    font-weight: bold;
+}
+.aside div p span{
+    font-style: italic;
+    font-weight: 10;
+}
