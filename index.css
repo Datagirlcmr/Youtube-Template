@@ -16,6 +16,11 @@ h1{
     display: flex;
     flex-direction: row;
     justify-content:space-between;
+    background-color:whitesmoke;
+    position: fixed;
+    width: 90%;
+    margin-top:-20px;
+    padding: 15px;
 }
 #logo{
     height: 26px;
