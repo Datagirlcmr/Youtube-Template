@@ -3,7 +3,7 @@ A clone of the Youtube Landing Page
 made by @Tresor11 & @Datagirlcmr
 using HTML5 and Css (not necessarily responsive)
 
- live demo:https://github.com/Datagirlcmr/Youtube-Template/blob/master/index.html
+ live demo:https://rawcdn.githack.com/Datagirlcmr/Youtube-Template/4fb3a24be6ee77bd671d4bbd896d3ec264716e38/index.html
  
 We Followed these Instructions
 
